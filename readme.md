@@ -31,12 +31,9 @@
 如果你不想自己编译，可以直接下载适配 ARMv7l 的预编译二进制文件：
 
 ```bash
-# 下载地址（示例）
-wget https://example.com/new-api-armv7l -O new-api
+# 下载地址
+wget https://github.com/yuzhiblue/new-api-armv7l/releases/download/v1.0.0/new-api-armv7l -O new-api
 chmod +x new-api
-```
-
-> **注意：** 请根据实际情况替换为真实的下载地址。
 
 ### 方式二：从源码交叉编译
 
